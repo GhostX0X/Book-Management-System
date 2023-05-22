@@ -26,7 +26,7 @@ The book management application provides the following features:
 
 - Search Books: Allows you to search for books based on a selected attribute and a search value. Select an attribute from the drop-down menu, enter the search value in the entry field, and click the "Search Books" button. The matching books will be displayed in the text area below.
 
-Clear Entries: Clicking the "Clear Entries" button will clear all the entry fields.
+- Clear Entries: Clicking the "Clear Entries" button will clear all the entry fields.
 
 Note: The XML file, "books.xml", should be present in the same directory as the code file. The XML file should have the following structure:
 
